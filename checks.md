@@ -23,18 +23,3 @@ This document logs the verification of all claims, prices, routes, contact detai
 | **Recommended Supermarket Address**: Shoufeng Township Farmers' Association Supermarket, Zhixue Store (壽豐鄉農會超市 志學門市) at No. 62, Section 3, Zhongshan Road. | `README.md` (Section 4, "If you want to cook") | Ministry of Agriculture Farmers' Association Directory (`fast.org.tw`) & National Business Registry | **Address Error in Notes**. The official address of 壽豐鄉農會志學分部 / 超市 is **No. 265, Section 2, Zhongshan Road** (花蓮縣壽豐鄉志學村中山路二段265號). No. 62, Section 3, Zhongshan Road is a different property (previously "Lost Whale" restaurant). Recommend updating the address to No. 265, Sec. 2. |
 | **Ji-Xian Building (集賢館) 1st Floor Dining**: Houses Fried Chicken Master (炸雞大獅), Zhen Noodle Restaurant (臻麵館), Dear Xiao Long Bao (親愛的小籠湯包), Wen Tang Wu Jiang (文湯武醬), Gan Cui (甘脆), and Family Mart (全家便利商店). Address: No. 1, Sec. 2, Daxue Rd. | `README.md` (Section 4, "If you don't want to cook" table) | NDHU Office of General Affairs Campus Commercial Dining Directory (`ga.ndhu.edu.tw`) | **Verified Accurate**. All six listed vendors and convenient stores are active commercial tenants on the 1st floor of Ji-Xian Building (集賢館), located adjacent to Dorms V and VI. |
 | **115th Academic Year (2026–2027) Course Selection Dates**: Preliminary (May 31–Jun 8, 2027 / Dec 14–24, 2026), Freshman-only (Sep 2–4, 2026 / Feb 15–17, 2027), Add/drop (Sep 7–14, 2026 / Feb 22–Mar 2, 2027), Add-course requests (Sep 16–22, 2026 / Mar 4–10, 2027), Course withdrawal (Nov 9–20, 2026 / Apr 26–May 7, 2027). | `README.md` (Section 5, Course selection table) | NDHU Official Academic Calendar (`sys.ndhu.edu.tw/AA/calendar/?Lang=ENG`) | **Verified Accurate**. All dates and cutoff times correspond directly to the official NDHU 115th Academic Year calendar published by the Office of Academic Affairs. |
-
----
-
-## Key Findings & Recommendations for Notes
-
-1. **Supermarket Address Discrepancy**:
-   - The notes state: `No. 62, Section 3, Zhongshan Road`.
-   - The actual location of the Farmers' Association Supermarket (壽豐鄉農會超市 志學門市) is **No. 265, Section 2, Zhongshan Road** (中山路二段265號). Consider correcting this in `README.md`.
-
-2. **Bus 301 Fare**:
-   - The notes state: `NT$59`.
-   - Current NDHU bus guidelines and Taroko Bus tariffs state **NT$51** for the full two-section route from Hualien Station to NDHU. Consider updating or adding `[CHECK: Bus 301 official fare is NT$51]`.
-
-3. **AI-Fidelity Confirmation**:
-   - The generated website strictly respects the user's rule to not alter any facts, preserving the original text verbatim while providing functional enhancements (clickable links, copy buttons, Google maps queries, responsive tables).
